@@ -1,0 +1,43 @@
+# Custom theme for Alacritty (Monochrome/Grayscale/Whatever)
+
+[colors.primary]
+foreground = "#ffffff"
+background = "#000000"
+
+[colors.normal]
+black = "#101010"
+red = "#303030"
+green = "#505050"
+yellow = "#707070"
+blue = "#919191"
+magenta = "#B1B1B1"
+cyan = "#D1D1D1"
+white = "#F1F1F1"
+
+[colors.bright]
+black = "#101010"
+red = "#303030"
+green = "#505050"
+yellow = "#707070"
+blue = "#919191"
+magenta = "#B1B1B1"
+cyan = "#D1D1D1"
+white = "#F1F1F1"
+
+[colors.dim]
+black = "#131415"
+red = "#864343"
+green = "#777c44"
+yellow = "#9e824c"
+blue = "#556a7d"
+magenta = "#75617b"
+cyan = "#5b7d78"
+white = "#828482"
+
+[colors.hints]
+start = { foreground = "#1d1f21", background = "#e9ff5e" }
+end = { foreground = "#e9ff5e", background = "#1d1f21" }
+
+[colors.search]
+matches = { foreground = "#000000", background = "#ffffff" }
+focused_match = { foreground = "#ffffff", background = "#000000" }

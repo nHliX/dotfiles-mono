@@ -1,0 +1,5 @@
+general.import = [
+    "~/.config/alacritty_bnw_theme.toml"
+]
+window.dynamic_padding = true
+window.opacity = 0.8

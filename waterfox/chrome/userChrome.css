@@ -1,0 +1,15 @@
+/* edited, source: https://github.com/cyp3rr/firefox-lab/blob/main/invisiblefox-linux.css */
+:root {
+  --tabpanel-background-color: black !important;
+  background: rgba(0,0,0,0.5) !important;
+}
+
+#navigator-toolbox, #nav-bar {
+  background-color: transparent !important;
+}
+
+vbox#titlebar {
+  * {
+      background-color: transparent !important;
+  }    
+}
